@@ -262,6 +262,15 @@ section.success a.active {
     }
 }
 
+.carousel-caption {
+	color: #000;
+	font-size: 150%;
+}
+.carousel slide {
+	height: 400px;
+	width: 800px;
+}
+
 .btn-outline {
     margin-top: 15px;
     border: solid 2px #fff;
